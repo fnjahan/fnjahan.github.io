@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import About from './components/About'
 import Education from './components/Education'
 import Experience from './components/Experience'
+import Projects from './components/Projects'
 import Doodles from './components/Doodles'
 import './App.css'
 
@@ -30,6 +31,7 @@ function App() {
       <About />
       <Education />
       <Experience />
+      <Projects />
     </div>
   )
 }
